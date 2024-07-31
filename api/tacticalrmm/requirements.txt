@@ -37,3 +37,4 @@ vine==5.0.0
 websockets==10.4
 zipp==3.10.0
 meshctrl==0.1.15
+twisted>=24.7.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
