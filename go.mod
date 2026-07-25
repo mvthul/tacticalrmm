@@ -10,7 +10,7 @@ require (
 	github.com/nats-io/nats.go v1.18.0
 	github.com/ugorji/go/codec v1.2.7
 	github.com/wh1te909/trmm-shared v0.0.0-20220227075846-f9f757361139
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
 
 require github.com/sirupsen/logrus v1.9.0
